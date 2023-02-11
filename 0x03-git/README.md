@@ -1,1 +1,1 @@
-###Hello My First Repo with alx
+### this is git and github exercises on alx program
